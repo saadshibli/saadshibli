@@ -93,7 +93,7 @@ const saad = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🧠 NeuroNavigator</h3>
+      <h3 align="center">🧠 CoachAlly</h3>
       <div align="center">
         <a href="#">
           <img src="https://img.shields.io/badge/Healthcare-AI_Platform-00D9FF?style=for-the-badge" />
